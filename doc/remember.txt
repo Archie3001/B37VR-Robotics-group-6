@@ -1,0 +1,1 @@
+final upload must be a pdf, not a word document
