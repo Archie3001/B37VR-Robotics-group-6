@@ -9,6 +9,6 @@ please remember the final report must be submitted as a .pdf, not a word documen
 git pull
 
 ## save to cloud:
-git add *
-git commit -m
-git push
+git add *\
+git commit -m\
+git push\
